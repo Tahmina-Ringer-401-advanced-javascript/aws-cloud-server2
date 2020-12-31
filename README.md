@@ -1,4 +1,4 @@
-# aws-cloud-server2
+# AWS Cloud Sever GUI
 
 Learning how to deploy applications to AWS through GitHub and the command line.
 
@@ -12,4 +12,4 @@ Author Tahmina Ringer
 - [GitHub PR - GUI](https://github.com/tahminaringer/aws-cloud-server2/commit/bb6cc2309d3ec29d88fc8e4cfcec21f3583e23cf)
 - [GitHub PR - CLI](https://github.com/Tahmina-Ringer-401-advanced-javascript/aws_cloud_servers/commit/59a9816840a931967b63c76be5801c24e6ae9349)
 - [AWS-gui](https://us-east-2.console.aws.amazon.com/elasticbeanstalk/home?region=us-east-2#/applications)
-- [AWS-CLI](https://us-east-2.console.aws.amazon.com/elasticbeanstalk/home?region=us-east-2#/environments)
+- [AWS-CLI](https://us-east-2.console.aws.amazon.com/elasticbeanstalk/home?region=us-east-2#/environmen
